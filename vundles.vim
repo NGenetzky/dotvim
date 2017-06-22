@@ -7,9 +7,11 @@
 "   Ben O'Hara <bohara@gmail.com>
 "
 
+" This bundle is added with the other vundle setup
 " Vundle itself
-Bundle 'gmarik/vundle'
-" Required for settings
+"Bundle 'gmarik/vundle'
+
+" Required for plugin/settings/colors
 Bundle 'chriskempson/base16-vim'
 
 " General
